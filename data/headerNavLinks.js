@@ -1,7 +1,7 @@
 const headerNavLinks = [
   { href: '/blog', title: 'Blog' },
   { href: '/tags', title: 'Tags' },
-  { href: 'https://caioaugusto.dev/', title: 'Portfólio' },
+  { href: 'https://antonymazierowarken.vercel.app/', title: 'Portfólio' },
 ]
 
 export default headerNavLinks
