@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: 'Caio Augusto | Engenheiro de Software',
-  author: 'Caio Augusto',
-  headerTitle: 'Caio Augusto',
+  title: 'Antony Maziero Warken | Desenvolvedor Web',
+  author: 'Antony Maziero Warken',
+  headerTitle: 'Antony Maziero Warken',
   description: 'Blog onde escrevo sobre tecnologia, especialmente sobre front-end.',
   language: 'pt-br',
   theme: 'system',
@@ -9,9 +9,9 @@ const siteMetadata = {
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
-  email: 'caioamfr@gmail.com',
-  github: 'https://github.com/CaioAugustoo',
-  linkedin: 'https://www.linkedin.com/in/caio-augustoo/',
+  email: 'antonymazierowarken@gmail.com',
+  github: 'https://github.com/mwantony',
+  linkedin: 'https://www.linkedin.com/in/antonymazierowarken/',
   locale: 'pt-BR',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
