@@ -10,7 +10,7 @@ Este projeto consiste em um blog pessoal, onde futuramente farei posts dando dic
 Veja abaixo uma foto do projeto.
 [![Image from Gyazo](https://i.gyazo.com/51ce0d1366092a6515b32f82972a8b3c.png)](https://gyazo.com/51ce0d1366092a6515b32f82972a8b3c)
 
-Você pode conferir o resultado final em: https://blog.caioaugusto.dev/
+Você pode conferir o resultado final em: https://antonymwblog.vercel.app/
 
 ## 🎯 Objetivo do projeto
 
@@ -29,7 +29,7 @@ Para que este rode em sua máquina, siga os passos abaixo:
 
 ```bash
 # Clone o repositório em alguma pasta em sua máquina
-$ git clone https://github.com/CaioAugustoo/blog.git
+$ git clone https://github.com/mwantony/blog.git
 
 # Entre no repositório
 $ cd blog
