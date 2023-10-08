@@ -8,7 +8,7 @@ Este projeto consiste em um blog pessoal, onde futuramente farei posts dando dic
 ## ✨ Demonstração
 
 Veja abaixo uma foto do projeto.
-[![Image from Gyazo](https://raw.githubusercontent.com/mwantony/portfolio/main/src/Assets/Projects/blog.png)](https://raw.githubusercontent.com/mwantony/portfolio/main/src/Assets/Projects/blog.png)
+[![Image from Github](https://raw.githubusercontent.com/mwantony/portfolio/main/src/Assets/Projects/blog.png)](https://raw.githubusercontent.com/mwantony/portfolio/main/src/Assets/Projects/blog.png)
 
 Você pode conferir o resultado final em: https://antonymwblog.vercel.app/
 
